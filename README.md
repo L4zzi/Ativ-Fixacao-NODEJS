@@ -39,7 +39,17 @@ Abaixo, um exemplo da requisição POST realizada para cadastrar um novo cliente
 
 Siga os passos abaixo para configurar o ambiente em sua máquina:
 
-### 1. Clonar o repositório
+### 1. Configurar Variáveis de Ambiente
+Crie um arquivo .env na raiz do projeto e preencha com suas credenciais:
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=sua_senha_aqui
+DB_NAME=nome_db
+DB_PORT=3306
+PORT=4000
+
+### 2. Clonar o repositório
 ```bash
 git clone https://github.com/L4zzi/Ativ-Fixacao-NODEJS.git
 `
