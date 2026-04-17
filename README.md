@@ -41,7 +41,7 @@ Siga os passos abaixo para configurar o ambiente em sua máquina:
 
 ### 1. Configurar Variáveis de Ambiente
 Crie um arquivo .env na raiz do projeto e preencha com suas credenciais:
-
+``
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=sua_senha_aqui
