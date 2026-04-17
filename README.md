@@ -46,7 +46,7 @@ git clone https://github.com/L4zzi/Ativ-Fixacao-NODEJS.git
 ### 2. Instalar Dependências e Iniciar
 No terminal, na raiz do projeto:
 
-```bash
+
 # Instalar as dependências
 npm install
 
