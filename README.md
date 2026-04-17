@@ -1,6 +1,6 @@
 # Atividade Dirigida: Node.js + MySQL (Arquitetura MVC)
 
-Este projeto foi desenvolvido como parte da Unidade Curricular de **Desenvolvimento FullStack** no SENAI CIMATEC, sob a orientação do **Prof. Celso Barreto**. O objetivo principal é aplicar os conceitos de separação em camadas, modularização e operações básicas de banco de dados (CRUD).
+ O objetivo principal é aplicar os conceitos de separação em camadas, modularização e operações básicas de banco de dados (CRUD).
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -29,7 +29,7 @@ A requisição percorre o seguinte caminho:
 
 
 ---
-Testando as Rotas (Postman)
+### Testando as Rotas (Postman)
 Abaixo, um exemplo da requisição POST realizada para cadastrar um novo cliente com sucesso:
 
 <img width="1415" height="1138" alt="image" src="https://github.com/user-attachments/assets/21ee2900-7792-4658-8661-796afa189273" />
@@ -41,8 +41,7 @@ Siga os passos abaixo para configurar o ambiente em sua máquina:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/L4zzi/Ativ-Fixacao-NODEJS.git
 `
 ### 2. Instalar Dependências e Iniciar
 No terminal, na raiz do projeto:
